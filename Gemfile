@@ -4,7 +4,7 @@ source "http://rubygems.org"
 #   gem "activesupport", ">= 2.3.5"
 
 gem "rails", "3.1.6"
-gem "dkastner-moneta", "~> 0.7"
+gem "dkastner-moneta"
 gem "factory_girl", "~> 2.0.0.beta1"
 gem "warden", "~> 1.0"
 gem "haml", "~> 3.1"
